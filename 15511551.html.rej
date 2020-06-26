@@ -1,0 +1,25 @@
+diff a/15511551.html b/15511551.html	(rejected hunks)
+@@ -13,19 +13,15 @@
+   });
+ });
+ </script>
+-<style> 
+-body{
+-background-color:red;
+ 
+-}
++<style>
++
+ body{
+-background-color:yellow;
++background-color:red;
+ 
+ }
+-
+-
+-
+       </style>
++
+ </head>
+ <body>
+ <button>:first</button>
